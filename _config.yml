@@ -33,7 +33,7 @@ github_username:  jekyll
 # theme: minimal-mistakes-jekyll
 # plugins:
 #   - jekyll-feed
-remote_theme: mmistakes/minimal-mistakes@5.2.0  # 使用最新版本
+remote_theme: mmistakes/minimal-mistake  # 使用最新版本
 plugins:
   - jekyll-feed
   - jekyll-remote-theme  # 必须添加此插件

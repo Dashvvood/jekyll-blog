@@ -33,10 +33,10 @@ github_username:  jekyll
 # theme: minimal-mistakes-jekyll
 # plugins:
 #   - jekyll-feed
-remote_theme: mmistakes/minimal-mistakes  # 使用最新版本
+remote_theme: "mmistakes/minimal-mistakes@4.27.2
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme  # 必须添加此插件
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

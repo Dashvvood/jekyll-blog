@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jupyter Usage
+title: Technical Hodgepodge
 date: 2025-08-31 12:00 +0800
 ---
 
